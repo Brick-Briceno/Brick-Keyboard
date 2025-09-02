@@ -18,7 +18,7 @@ Solo descarga y corre el programa
 
 A mi teclado no le funciona la letra **"Y"**, **"T"** y el **tabulador**, veamos cómo podemos configurar
 
-El programa te creará junto a él un archivo llamado combinations.json ábrelo coño si fuera un texto común y corriente con el bloc de notas o un editor de codigo, como prefieras
+El programa te creará junto a él un archivo llamado combinations.json ábrelo como si fuera un texto común y corriente con el bloc de notas o un editor de codigo, como prefieras
 
 _En mi caso está es mi configuración preferida, solo copia pega_
 
